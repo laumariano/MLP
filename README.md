@@ -1,4 +1,4 @@
-# Meu Projeto MLP: Sistemas Inteligentes
+# MLP: Sistemas Inteligentes
 
 ## 🎯 Objetivos
 Neste projeto, utilizei um classificador MLP em um conjunto de dados sobre Lombalgia com o objetivo de reconhecer pessoas que possuem a doença através de dados físicos da sua coluna vertebral. A proposta foi explorar a eficácia de redes neurais artificiais na classificação binária de casos anormais e normais, com base em características específicas.
